@@ -92,7 +92,7 @@ You need a free API key to use Google's AI models.
 
 1. Open your web browser
 2. Go to: `http://localhost:7777`
-3. You should see the AgentOS interface
+3. Optional: connect to the [AgentOS interface](https://os.agno.com/) 
 4. You can now submit teacher evaluations and receive professional development reports!
 
 ## Troubleshooting
